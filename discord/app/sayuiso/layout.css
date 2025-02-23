@@ -1,6 +1,11 @@
 body {
     font-family: Arial, sans-serif;
   }
+
+  .clockStyle {
+    margin: 0 auto;
+    color: #007bff;
+  }
   
   .chat-container {
     width: 300px;
