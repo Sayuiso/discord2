@@ -1,1 +1,11 @@
-console.log("aiueo")
+"use client";
+
+export default function Home() {
+  
+
+  return (
+    <>
+
+    </>
+  );
+}
