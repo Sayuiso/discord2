@@ -10,8 +10,8 @@ export default function Home() {
         </div>
         <div className="chat-display">
           <div className="system-message">緊急警報発令。</div>
-          <div className="system-message">大規模作戦を開始します。</div>
-          <div className="chat-message">気が遠くなりそう</div>
+          <div className="system-message">緊急警報発令。惑星ナベリウス上空にて、【</div>
+          <div className="chat-message">深遠なる闇】の反応が増大しつつあります。</div>
         </div>
         <div className="chat-input">
           <input type="text" placeholder="周囲に発言" />
